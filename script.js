@@ -1,6 +1,6 @@
 const songs = [
 {
-    title: "Life Goes On",
+    title: "life Goes On",
     artist: "BTS",
     src: "Life Goes On.mp3",
     cover: "cover1.jpg"
