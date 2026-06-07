@@ -2,20 +2,20 @@ const songs = [
 {
     title: "Life Goes On",
     artist: "BTS",
-    src: "songs/Life Goes On.mp3",
-    cover: "images/cover1.jpg"
+    src: "Life Goes On.mp3",
+    cover: "cover1.jpg"
 },
 {
     title: "Chemtrails Over the Country Club",
     artist: "Lana Del Rey",
-    src: "songs/Chemtrails Over the Country Club.mp3",
-    cover: "images/cover2.jpg"
+    src: "Chemtrails Over the Country Club.mp3",
+    cover: "cover2.jpg"
 },
 {
     title: "Who Says",
     artist: "Selena Gomez",
-    src: "songs/Who Says.mp3",
-    cover: "images/cover3.jpg"
+    src: "Who Says.mp3",
+    cover: "cover3.jpg"
 }
 ];
 const audio = document.getElementById("audio");
