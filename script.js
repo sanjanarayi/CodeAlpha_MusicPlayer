@@ -55,11 +55,12 @@ function loadSong(index){
 
     const song = songs[index];
 
+    if(!song) return;
+
     title.textContent = "🎵 " + song.title;
     artist.textContent = "👤 " + song.artist;
 
     audio.src = song.src;
-
     cover.src = song.cover;
 
     updatePlaylistHighlight();
