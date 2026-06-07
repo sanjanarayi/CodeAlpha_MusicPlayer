@@ -2,7 +2,7 @@ const songs = [
 {
     title: "Life Goes On",
     artist: "BTS",
-    src: "life Goes On.mp3",
+    src: life goes on.mp3",
     cover: "cover1.jpg"
 },
 {
